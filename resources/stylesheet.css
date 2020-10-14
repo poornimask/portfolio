@@ -1,37 +1,42 @@
 body {
   font: 15px Montserrat, sans-serif;
-  line-height: 1.8;
-  
+  line-height: 1.8;  
 }
 p {font-size: 15px;}
-.margin {margin-bottom: 30px;}
+.margin {margin-bottom: 10px;}
 .bg-1 { 
   background-color: #ffffff; /* black */
   color: #000000;
+  margin-bottom: 5em;
 }
 .bg-2 { 
   background-color: #ffffff;; /* green */
   color:#000000;
+  margin-bottom: 5em;
 }
 .bg-3 { 
   background-color: #ffffff; /* black */
   color: #000000;
+  margin-bottom: 5em;
 }
 .bg-4 { 
   background-color: #ffffff; /* green */
   color: #000000;
+  margin-bottom: 5em;
 }
 .bg-5 { 
   background-color: #ffffff; /* green */
   color: #000000;
+  margin-bottom: 5em;
 }
 .container-fluid {
-  padding-top: 10px;
+  padding-top: 50px;
   margin-top:inherit;
+  background-color: rgb(184, 138, 11);
+  color: #ffffff;
+  
 }
-.bg-1{
-  padding-top: 90px;
-}
+
 .navbar {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -61,4 +66,8 @@ p {font-size: 15px;}
 .lead { 
   font-size: medium;
 }
+.dbg{
+  background-color: crimson;
+}
+
 
